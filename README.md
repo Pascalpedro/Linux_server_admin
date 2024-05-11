@@ -1,2 +1,3 @@
 # Linux_server_admin
-A breakdown of linux server best practices to ensure seamless ops.
+
+🐧 This repo is a collection of **AWESOME** Linux server best practices and tools for that ensures seamless operations.
