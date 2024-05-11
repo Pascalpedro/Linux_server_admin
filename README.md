@@ -1,3 +1,3 @@
-# Linux_server_admin
+# Linux Server Admin!!!
 
-🐧 This repo is a collection of **AWESOME** Linux server best practices and tools for that ensures seamless operations.
+🐧 This repo is a collection of **AWESOME** Linux server best practices and tools to ensure seamless and secured operations.
